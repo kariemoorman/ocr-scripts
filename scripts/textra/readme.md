@@ -32,7 +32,7 @@ textra <image_file.png> -o <output.txt>
 </details>
 
 <details>
-  <summary><b>Typed Document</b></summary>
+  <summary><b>Digital Characters</b></summary>
   <br>
   
   <br>
