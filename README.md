@@ -9,7 +9,7 @@ Collection of simple scripts, ML & LLM solutions for OCR tasks such as text extr
 - [Textra](https://github.com/kariemoorman/ocr-scripts/tree/main/scripts/textra)
 
 #### 🤖 Machine Learning 
-- [Nougat](https://github.com/kariemoorman/ocr-scripts/tree/main/scripts/nougat)
+- [Nougat](https://github.com/kariemoorman/ocr-scripts/tree/main/scripts/Nougat)
 
 #### 🧠 LLM
 - Forthcoming...
