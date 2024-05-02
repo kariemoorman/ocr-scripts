@@ -11,8 +11,5 @@ Collection of simple scripts, ML & LLM solutions for OCR tasks such as text extr
 #### 🤖 Machine Learning 
 - [Nougat](https://github.com/kariemoorman/ocr-scripts/tree/main/scripts/nougat)
 
-
 #### 🧠 LLM
-- [OCR with ChatGPT](https://github.com/kariemoorman/ocr-scripts/tree/main/scripts/OpenAI)
-- [OCR with Gemini](https://github.com/kariemoorman/ocr-scripts/tree/main/scripts/Gemini)
-- [OCR with Textract](https://github.com/kariemoorman/ocr-scripts/tree/main/scripts/Textract)
+- Forthcoming...
