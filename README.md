@@ -4,6 +4,7 @@ Collection of simple scripts, ML & LLM solutions for OCR tasks such as text extr
 ---
 
 #### ⌨️ Scripts
+- [pdfplumber](https://github.com/kariemoorman/ocr-scripts/tree/main/scripts/pdfplumber)
 - [PyPDF2](https://github.com/kariemoorman/ocr-scripts/tree/main/scripts/PyPDF2)
 - [PyMuPDF](https://github.com/kariemoorman/ocr-scripts/tree/main/scripts/PyMuPDF)
 - [Tesseract](https://github.com/kariemoorman/ocr-scripts/tree/main/scripts/tesseract)
